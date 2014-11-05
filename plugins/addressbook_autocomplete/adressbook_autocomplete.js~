@@ -1,0 +1,9 @@
+rcmail.addEventListener('init', function(evt) {
+	if (task == 'mail' && action == 'compose') {
+		$('#contactsearchbox').on("change", function() {
+		
+		});
+	}
+
+});
+
